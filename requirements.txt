@@ -1,0 +1,9 @@
+torch
+tensorflow
+statsmodels
+numpy
+pandas
+matplotlib
+yfinance
+scikit-learn
+seaborn
